@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317548141612",
+    "project_id": "animooo",
+    "storage_bucket": "animooo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317548141612:android:392e88109ceb59541f0589",
+        "android_client_info": {
+          "package_name": "com.example.amimooo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq5Tjwx07Ebr62UnddwZPfgnilkc-cEOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
